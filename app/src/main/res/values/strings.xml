@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">busticketVerify</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_scan">QR CODE</string>
+    <string name="str_tv_scan">SCAN</string>
+    <string name="str_ise"></string>
+    <string name="str_btn_launch_scan">Launch Code Reader</string>
+</resources>
